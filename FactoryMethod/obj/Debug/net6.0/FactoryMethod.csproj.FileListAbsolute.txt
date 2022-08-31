@@ -1,0 +1,15 @@
+/Users/xakimov/Desktop/Design-Patterns/FactoryMethod/obj/Debug/net6.0/FactoryMethod.csproj.AssemblyReference.cache
+/Users/xakimov/Desktop/Design-Patterns/FactoryMethod/obj/Debug/net6.0/FactoryMethod.GeneratedMSBuildEditorConfig.editorconfig
+/Users/xakimov/Desktop/Design-Patterns/FactoryMethod/obj/Debug/net6.0/FactoryMethod.AssemblyInfoInputs.cache
+/Users/xakimov/Desktop/Design-Patterns/FactoryMethod/obj/Debug/net6.0/FactoryMethod.AssemblyInfo.cs
+/Users/xakimov/Desktop/Design-Patterns/FactoryMethod/obj/Debug/net6.0/FactoryMethod.csproj.CoreCompileInputs.cache
+/Users/xakimov/Desktop/Design-Patterns/FactoryMethod/bin/Debug/net6.0/FactoryMethod
+/Users/xakimov/Desktop/Design-Patterns/FactoryMethod/bin/Debug/net6.0/FactoryMethod.deps.json
+/Users/xakimov/Desktop/Design-Patterns/FactoryMethod/bin/Debug/net6.0/FactoryMethod.runtimeconfig.json
+/Users/xakimov/Desktop/Design-Patterns/FactoryMethod/bin/Debug/net6.0/FactoryMethod.dll
+/Users/xakimov/Desktop/Design-Patterns/FactoryMethod/bin/Debug/net6.0/FactoryMethod.pdb
+/Users/xakimov/Desktop/Design-Patterns/FactoryMethod/obj/Debug/net6.0/FactoryMethod.dll
+/Users/xakimov/Desktop/Design-Patterns/FactoryMethod/obj/Debug/net6.0/refint/FactoryMethod.dll
+/Users/xakimov/Desktop/Design-Patterns/FactoryMethod/obj/Debug/net6.0/FactoryMethod.pdb
+/Users/xakimov/Desktop/Design-Patterns/FactoryMethod/obj/Debug/net6.0/FactoryMethod.genruntimeconfig.cache
+/Users/xakimov/Desktop/Design-Patterns/FactoryMethod/obj/Debug/net6.0/ref/FactoryMethod.dll
