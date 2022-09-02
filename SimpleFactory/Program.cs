@@ -8,7 +8,6 @@
 
         var coffee2 = new Coffee { CoffeType = CoffeType.Cappucino, Parameters = new List<CoffeeParameters>() };
 
-
         // yechim:
         var myMorningCoffee = SimpleFactory1.Coffee.Create(SimpleFactory1.CoffeType.Americano);
         var myLunchCoffee = SimpleFactory2.Coffee.NewLatte();
@@ -21,7 +20,7 @@
 public class Coffee
 {
     public CoffeType CoffeType;
-    public List<CoffeeParameters> Parameters;
+    public List<CoffeeParameters>? Parameters;
 }
 
 
