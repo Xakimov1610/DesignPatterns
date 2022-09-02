@@ -15,7 +15,7 @@ public class CoffeeFactoryContainer
         factories.Add(name, factory);
     }
 
-    public ICoffeeFactory GetFactory(string name)
+    public ICoffeeFactory? GetFactory(string name)
     {
         return factories.ContainsKey(name) ? factories[name] :  null;
     }
