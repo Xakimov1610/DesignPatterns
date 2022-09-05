@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "/Users/xakimov/Desktop/Design-Patterns/SimpleFactory/SimpleFactory.csproj": {}
+    "/Users/xakimov/Desktop/GitHubProjects/Design-Patterns/SimpleFactory/SimpleFactory.csproj": {}
   },
   "projects": {
-    "/Users/xakimov/Desktop/Design-Patterns/SimpleFactory/SimpleFactory.csproj": {
+    "/Users/xakimov/Desktop/GitHubProjects/Design-Patterns/SimpleFactory/SimpleFactory.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/Users/xakimov/Desktop/Design-Patterns/SimpleFactory/SimpleFactory.csproj",
+        "projectUniqueName": "/Users/xakimov/Desktop/GitHubProjects/Design-Patterns/SimpleFactory/SimpleFactory.csproj",
         "projectName": "SimpleFactory",
-        "projectPath": "/Users/xakimov/Desktop/Design-Patterns/SimpleFactory/SimpleFactory.csproj",
+        "projectPath": "/Users/xakimov/Desktop/GitHubProjects/Design-Patterns/SimpleFactory/SimpleFactory.csproj",
         "packagesPath": "/Users/xakimov/.nuget/packages/",
-        "outputPath": "/Users/xakimov/Desktop/Design-Patterns/SimpleFactory/obj/",
+        "outputPath": "/Users/xakimov/Desktop/GitHubProjects/Design-Patterns/SimpleFactory/obj/",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "/Users/xakimov/.nuget/NuGet/NuGet.Config"
