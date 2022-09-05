@@ -1,30 +1,30 @@
 {
   "format": 1,
   "restore": {
-    "/Users/xakimov/Desktop/GitHubProjects/Design-Patterns/FactoryMethod/FactoryMethod.csproj": {}
+    "/Users/xakimov/Desktop/GitHubProjects/Design-Patterns/Singleton/Singleton.csproj": {}
   },
   "projects": {
-    "/Users/xakimov/Desktop/GitHubProjects/Design-Patterns/FactoryMethod/FactoryMethod.csproj": {
+    "/Users/xakimov/Desktop/GitHubProjects/Design-Patterns/Singleton/Singleton.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/Users/xakimov/Desktop/GitHubProjects/Design-Patterns/FactoryMethod/FactoryMethod.csproj",
-        "projectName": "FactoryMethod",
-        "projectPath": "/Users/xakimov/Desktop/GitHubProjects/Design-Patterns/FactoryMethod/FactoryMethod.csproj",
+        "projectUniqueName": "/Users/xakimov/Desktop/GitHubProjects/Design-Patterns/Singleton/Singleton.csproj",
+        "projectName": "Singleton",
+        "projectPath": "/Users/xakimov/Desktop/GitHubProjects/Design-Patterns/Singleton/Singleton.csproj",
         "packagesPath": "/Users/xakimov/.nuget/packages/",
-        "outputPath": "/Users/xakimov/Desktop/GitHubProjects/Design-Patterns/FactoryMethod/obj/",
+        "outputPath": "/Users/xakimov/Desktop/GitHubProjects/Design-Patterns/Singleton/obj/",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "/Users/xakimov/.nuget/NuGet/NuGet.Config"
         ],
         "originalTargetFrameworks": [
-          "net6.0"
+          "net7.0"
         ],
         "sources": {
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
-          "net6.0": {
-            "targetAlias": "net6.0",
+          "net7.0": {
+            "targetAlias": "net7.0",
             "projectReferences": {}
           }
         },
@@ -35,8 +35,8 @@
         }
       },
       "frameworks": {
-        "net6.0": {
-          "targetAlias": "net6.0",
+        "net7.0": {
+          "targetAlias": "net7.0",
           "imports": [
             "net461",
             "net462",
