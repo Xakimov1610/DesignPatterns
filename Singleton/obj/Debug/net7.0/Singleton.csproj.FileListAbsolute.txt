@@ -1,0 +1,15 @@
+/Users/xakimov/Desktop/GitHubProjects/Design-Patterns/Singleton/bin/Debug/net7.0/Singleton
+/Users/xakimov/Desktop/GitHubProjects/Design-Patterns/Singleton/bin/Debug/net7.0/Singleton.deps.json
+/Users/xakimov/Desktop/GitHubProjects/Design-Patterns/Singleton/bin/Debug/net7.0/Singleton.runtimeconfig.json
+/Users/xakimov/Desktop/GitHubProjects/Design-Patterns/Singleton/bin/Debug/net7.0/Singleton.dll
+/Users/xakimov/Desktop/GitHubProjects/Design-Patterns/Singleton/bin/Debug/net7.0/Singleton.pdb
+/Users/xakimov/Desktop/GitHubProjects/Design-Patterns/Singleton/obj/Debug/net7.0/Singleton.csproj.AssemblyReference.cache
+/Users/xakimov/Desktop/GitHubProjects/Design-Patterns/Singleton/obj/Debug/net7.0/Singleton.GeneratedMSBuildEditorConfig.editorconfig
+/Users/xakimov/Desktop/GitHubProjects/Design-Patterns/Singleton/obj/Debug/net7.0/Singleton.AssemblyInfoInputs.cache
+/Users/xakimov/Desktop/GitHubProjects/Design-Patterns/Singleton/obj/Debug/net7.0/Singleton.AssemblyInfo.cs
+/Users/xakimov/Desktop/GitHubProjects/Design-Patterns/Singleton/obj/Debug/net7.0/Singleton.csproj.CoreCompileInputs.cache
+/Users/xakimov/Desktop/GitHubProjects/Design-Patterns/Singleton/obj/Debug/net7.0/Singleton.dll
+/Users/xakimov/Desktop/GitHubProjects/Design-Patterns/Singleton/obj/Debug/net7.0/refint/Singleton.dll
+/Users/xakimov/Desktop/GitHubProjects/Design-Patterns/Singleton/obj/Debug/net7.0/Singleton.pdb
+/Users/xakimov/Desktop/GitHubProjects/Design-Patterns/Singleton/obj/Debug/net7.0/Singleton.genruntimeconfig.cache
+/Users/xakimov/Desktop/GitHubProjects/Design-Patterns/Singleton/obj/Debug/net7.0/ref/Singleton.dll
