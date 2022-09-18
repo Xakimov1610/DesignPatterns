@@ -1,12 +1,6 @@
-﻿using System;
-using System.Collections.Generic;
-using System.Linq;
-using System.Text;
-using System.Threading.Tasks;
+﻿namespace Builder.Traditional;
 
-namespace Builder.src;
-
-public class GreenTeaBuilder : TeaBuilder
+public class BlackTeaBuilder : TeaBuilder
 {
     public override void SetWater()
     {
@@ -15,8 +9,8 @@ public class GreenTeaBuilder : TeaBuilder
     }
     public override void SetTeaType()
     {
-        Console.WriteLine("#2 : Ko'k choy qo'shamiz");
-        GetTea().Name = "Ko'k choy";
+        Console.WriteLine("#2 : Qora choy qo'shamiz");
+        GetTea().Name = "Qora choy";
     }
     public override void SetMilk()
     {
@@ -34,6 +28,4 @@ public class GreenTeaBuilder : TeaBuilder
     {
         GetTea().Ice = 0;
     }
-    
-
 }

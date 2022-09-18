@@ -1,6 +1,6 @@
-﻿namespace Builder.src;
+﻿namespace Builder.Traditional;
 
-public class BlackTeaBuilder : TeaBuilder
+public class GreenTeaBuilder : TeaBuilder
 {
     public override void SetWater()
     {
@@ -9,8 +9,8 @@ public class BlackTeaBuilder : TeaBuilder
     }
     public override void SetTeaType()
     {
-        Console.WriteLine("#2 : Qora choy qo'shamiz");
-        GetTea().Name = "Qora choy";
+        Console.WriteLine("#2 : Ko'k choy qo'shamiz");
+        GetTea().Name = "Ko'k choy";
     }
     public override void SetMilk()
     {
@@ -28,4 +28,6 @@ public class BlackTeaBuilder : TeaBuilder
     {
         GetTea().Ice = 0;
     }
+    
+
 }

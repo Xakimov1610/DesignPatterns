@@ -1,14 +1,8 @@
-﻿using System;
-using System.Collections.Generic;
-using System.Linq;
-using System.Text;
-using System.Threading.Tasks;
-
-namespace Builder.src;
+﻿namespace Builder.Traditional;
 
 public abstract class TeaBuilder : ITeaBuilder
 {
-    protected Tea tea;
+    public Tea tea;
 
     public void CreateTea()
     {

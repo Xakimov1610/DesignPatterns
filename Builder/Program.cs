@@ -1,7 +1,6 @@
 ﻿using System.Data.SqlClient;
-using System.Text;
-using static System.Console;
-using Builder.src;
+using Builder.Fluent;
+using Builder.Traditional;
 
 // an'anaviy builder
 var teaDirector = new TeaDirector();
@@ -41,14 +40,14 @@ WriteLine(sb.ToString());
 WriteLine();
 
 
-var cb = new SqlConnectionStringBuilder("Data Source=myServer;Initial Catalog=myDatabase;Integrated Security=True;");
-var dbName = cb.InitialCatalog;
-WriteLine(dbName);
-cb.DataSource = "yourServer";
-cb.InitialCatalog = "yourDatabase";
-cb.IntegratedSecurity = false;
-string updatedConnString = cb.ConnectionString;
-Console.WriteLine(updatedConnString);
-WriteLine();
+// var cb = new SqlConnectionStringBuilder("Data Source=myServer;Initial Catalog=myDatabase;Integrated Security=True;");
+// var dbName = cb.InitialCatalog;
+// WriteLine(dbName);
+// cb.DataSource = "yourServer";
+// cb.InitialCatalog = "yourDatabase";
+// cb.IntegratedSecurity = false;
+// string updatedConnString = cb.ConnectionString;
+// Console.WriteLine(updatedConnString);
+// WriteLine();
 
 ReadLine();
