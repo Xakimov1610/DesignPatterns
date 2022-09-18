@@ -4,7 +4,7 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace VirtualDars.DesignPatterns.Builder
+namespace Builder.src
 {
     public interface IFluentTeaBuilder
     {
