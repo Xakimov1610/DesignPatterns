@@ -1,0 +1,15 @@
+/Users/xakimov/Desktop/GitHubProjects/Design-Patterns/Builder/obj/Debug/net6.0/Builder.csproj.AssemblyReference.cache
+/Users/xakimov/Desktop/GitHubProjects/Design-Patterns/Builder/obj/Debug/net6.0/Builder.GeneratedMSBuildEditorConfig.editorconfig
+/Users/xakimov/Desktop/GitHubProjects/Design-Patterns/Builder/obj/Debug/net6.0/Builder.AssemblyInfoInputs.cache
+/Users/xakimov/Desktop/GitHubProjects/Design-Patterns/Builder/obj/Debug/net6.0/Builder.AssemblyInfo.cs
+/Users/xakimov/Desktop/GitHubProjects/Design-Patterns/Builder/obj/Debug/net6.0/Builder.csproj.CoreCompileInputs.cache
+/Users/xakimov/Desktop/GitHubProjects/Design-Patterns/Builder/bin/Debug/net6.0/Builder
+/Users/xakimov/Desktop/GitHubProjects/Design-Patterns/Builder/bin/Debug/net6.0/Builder.deps.json
+/Users/xakimov/Desktop/GitHubProjects/Design-Patterns/Builder/bin/Debug/net6.0/Builder.runtimeconfig.json
+/Users/xakimov/Desktop/GitHubProjects/Design-Patterns/Builder/bin/Debug/net6.0/Builder.dll
+/Users/xakimov/Desktop/GitHubProjects/Design-Patterns/Builder/bin/Debug/net6.0/Builder.pdb
+/Users/xakimov/Desktop/GitHubProjects/Design-Patterns/Builder/obj/Debug/net6.0/Builder.dll
+/Users/xakimov/Desktop/GitHubProjects/Design-Patterns/Builder/obj/Debug/net6.0/refint/Builder.dll
+/Users/xakimov/Desktop/GitHubProjects/Design-Patterns/Builder/obj/Debug/net6.0/Builder.pdb
+/Users/xakimov/Desktop/GitHubProjects/Design-Patterns/Builder/obj/Debug/net6.0/Builder.genruntimeconfig.cache
+/Users/xakimov/Desktop/GitHubProjects/Design-Patterns/Builder/obj/Debug/net6.0/ref/Builder.dll
