@@ -4,21 +4,21 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace Builder.src
-{
-    public class TeaDirector
-    {
-        public Tea MakeTea(TeaBuilder teaBuilder)
-        {
-            teaBuilder.CreateTea();
-            teaBuilder.SetWater();
-            teaBuilder.SetTeaType();
-            teaBuilder.SetMilk();
-            teaBuilder.SetSugar();
-            teaBuilder.SetLemon();
-            teaBuilder.SetIce();
+namespace Builder.src;
 
-            return teaBuilder.GetTea();
-        }
+public class TeaDirector
+{
+    public Tea MakeTea(TeaBuilder teaBuilder)
+    {
+        teaBuilder.CreateTea();
+        teaBuilder.SetWater();
+        teaBuilder.SetTeaType();
+        teaBuilder.SetMilk();
+        teaBuilder.SetSugar();
+        teaBuilder.SetLemon();
+        teaBuilder.SetIce();
+
+        return teaBuilder.GetTea();
     }
 }
+

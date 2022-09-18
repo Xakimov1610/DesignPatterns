@@ -4,22 +4,22 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace Builder.src
+namespace Builder.src;
+
+public class FluentTeaDirector
 {
-    public class FluentTeaDirector
+    public Tea MakeTea(FluentTeaBuilder teaBuilder)
     {
-        public Tea MakeTea(FluentTeaBuilder teaBuilder)
-        {
-            return teaBuilder
-                        .CreateTea()
-                        .SetWater()
-                        .SetTeaType()
-                        .SetMilk()
-                        .SetSugar()
-                        .SetLemon()
-                        .SetMilk()
-                        .SetIce()
-                        .GetTea();
-        }
+        return teaBuilder
+                    .CreateTea()
+                    .SetWater()
+                    .SetTeaType()
+                    .SetMilk()
+                    .SetSugar()
+                    .SetLemon()
+                    .SetMilk()
+                    .SetIce()
+                    .GetTea();
     }
 }
+

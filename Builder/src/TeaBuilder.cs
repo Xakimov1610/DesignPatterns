@@ -4,28 +4,25 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace Builder.src
+namespace Builder.src;
+
+public abstract class TeaBuilder : ITeaBuilder
 {
-    public abstract class TeaBuilder : ITeaBuilder
+    protected Tea tea;
+
+    public void CreateTea()
     {
-        protected Tea tea;
+        tea = new Tea();
+    }
 
-        public void CreateTea()
-        {
-            tea = new Tea();
-        }
-
-        public abstract void SetTeaType();
-        public abstract void SetWater();
-        public abstract void SetMilk();
-        public abstract void SetSugar();
-        public abstract void SetLemon();
-        public abstract void SetIce();
-        public Tea GetTea()
-        {
-            return tea;
-        }
-
-
+    public abstract void SetTeaType();
+    public abstract void SetWater();
+    public abstract void SetMilk();
+    public abstract void SetSugar();
+    public abstract void SetLemon();
+    public abstract void SetIce();
+    public Tea GetTea()
+    {
+        return tea;
     }
 }

@@ -4,17 +4,17 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace Builder.src
+namespace Builder.src;
+
+public interface ITeaBuilder
 {
-    public interface ITeaBuilder
-    {
-        void CreateTea();
-        void SetTeaType();
-        void SetWater();
-        void SetMilk();
-        void SetSugar();
-        void SetLemon();
-        void SetIce();
-        Tea GetTea();
-    }
+    void CreateTea();
+    void SetTeaType();
+    void SetWater();
+    void SetMilk();
+    void SetSugar();
+    void SetLemon();
+    void SetIce();
+    Tea GetTea();
 }
+
