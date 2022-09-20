@@ -40,14 +40,14 @@ WriteLine(sb.ToString());
 WriteLine();
 
 
-// var cb = new SqlConnectionStringBuilder("Data Source=myServer;Initial Catalog=myDatabase;Integrated Security=True;");
-// var dbName = cb.InitialCatalog;
-// WriteLine(dbName);
-// cb.DataSource = "yourServer";
-// cb.InitialCatalog = "yourDatabase";
-// cb.IntegratedSecurity = false;
-// string updatedConnString = cb.ConnectionString;
-// Console.WriteLine(updatedConnString);
-// WriteLine();
+var cb = new SqlConnectionStringBuilder("Data Source=myServer;Initial Catalog=myDatabase;Integrated Security=True;");
+var dbName = cb.InitialCatalog;
+WriteLine(dbName);
+cb.DataSource = "yourServer";
+cb.InitialCatalog = "yourDatabase";
+cb.IntegratedSecurity = false;
+string updatedConnString = cb.ConnectionString;
+Console.WriteLine(updatedConnString);
+WriteLine();
 
 ReadLine();
